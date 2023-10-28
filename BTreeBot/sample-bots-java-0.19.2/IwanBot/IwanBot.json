@@ -1,0 +1,14 @@
+{
+  "name": "IwanBot",
+  "version": "1.0",
+  "authors": [
+    "Iwan Li"
+  ],
+  "description": "A sample bot that is probably the first bot you will learn about.",
+  "homepage": "",
+  "countryCodes": [
+    "cn"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}

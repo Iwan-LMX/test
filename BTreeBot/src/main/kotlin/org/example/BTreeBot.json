@@ -1,0 +1,9 @@
+{
+  "name": "Behaviour Tree Bot",
+  "version": "1.0",
+  "authors": ["Tony"],
+  "description": "test",
+  "countryCodes": ["au"],
+  "platform": "JVM",
+  "programmingLang": "Kotlin"
+}
